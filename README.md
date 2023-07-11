@@ -1,3 +1,4 @@
+![Screenshot](Screenshot 2023-07-11 155320.png)
 # Easybank
 * Final Year Project: Web-Based Mobile Banking System
 * First Milestone Of Our Final Year Project 
